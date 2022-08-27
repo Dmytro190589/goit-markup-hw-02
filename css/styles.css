@@ -1,0 +1,30 @@
+/* фон хедера #FFFFFF */
+/* акцент синий цвет #2196F3 */
+/*  фон работников белій #F5F4FA */
+/* фон рисунков белий і ефективних #F5F5F5 */
+/* фон футера чорний #2F303A */
+:root {
+    --primary-title-color: 
+    --accent-color: #2196F3;
+    
+}
+ul {
+  list-style: none;
+}
+/* site-nav */
+.logo {
+color: black;
+text-decoration: none;
+}
+.half-logo {
+    color:#2196F3;
+    }
+    .link {
+        color: #2196F3;
+    }
+  .title {
+    color: #212121;
+  }
+  .features-title {
+    color: #757575;
+  }
