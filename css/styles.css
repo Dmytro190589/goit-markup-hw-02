@@ -33,6 +33,7 @@
   
   
   .link {
+    font-weight: 500;
     text-decoration: none;
     color: var(--accent-color-link);
   }
@@ -201,6 +202,7 @@
 
 .workers-name {
   font-family: var(--primary-font);
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
@@ -298,6 +300,7 @@ text-decoration: none;
   line-height: 1.87;
   letter-spacing: 0.03em;
   color: var(--accen-color-proj-dir);
-
-  
+}
+.addres-list {
+  font-style: normal;
 }
